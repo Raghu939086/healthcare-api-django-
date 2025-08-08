@@ -6,6 +6,7 @@ _pycache_/
 # Virtual environment
 venv/
 env/
+myenv/
 
 # Django stuff
 *.log
